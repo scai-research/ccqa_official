@@ -1,4 +1,4 @@
-# 🔄 CCQA: Cycle-Consistency in Question Answering
+# 🔄 CCQA: Generating Question from Solution Can Improve Inference-Time Reasoning in SLMs
 
 [![EMNLP 2025](https://img.shields.io/badge/EMNLP-2025-blue)](https://2025.emnlp.org/)
 [![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/release/python-3100/)
