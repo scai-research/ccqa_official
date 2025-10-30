@@ -30,3 +30,19 @@ CCQA is a novel inference-time reasoning method designed specifically for **Smal
 - **Cycle Consistency**: Evaluates reasoning quality by regenerating questions from solutions
 - **Efficient**: Uses lightweight Flan-T5 model for backward question generation
 
+## 🛠️ Supported Models & Benchmarks
+
+### Base Models
+- **Llama3.2**: 1B, 3B
+- **Qwen2.5**: 0.5B, 1.5B, 3B
+- **SmolLM2**: 135M, 360M
+- **Falcon**: 1B
+
+### Question Generator
+- **Flan-T5-base** (258M)
+
+### Benchmarks
+| Type | Benchmarks |
+|------|-----------|
+| **Arithmetic** | GSM8K, SVAMP, MultiArith |
+| **Commonsense** | CommonSenseQA, StrategyQA, ARC-Challenge |
