@@ -1,10 +1,3 @@
-# ccqa_official
-
-### CCQA: Generating Question from Solution Can Improve Inference-Time Reasoning in SLMs (EMNLP 2025)
-<img width="2152" height="1090" alt="image" src="https://github.com/user-attachments/assets/d0dca0b6-9165-476c-b2ba-45cb30c8bfab" />
-
-<div align="center">
-
 # 🔄 CCQA: Cycle-Consistency in Question Answering
 
 [![EMNLP 2025](https://img.shields.io/badge/EMNLP-2025-blue)](https://2025.emnlp.org/)
@@ -12,6 +5,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![arXiv](https://img.shields.io/badge/arXiv-2501.xxxxx-b31b1b.svg)](https://arxiv.org/abs/2501.xxxxx)
 
+<img width="2152" height="1090" alt="image" src="https://github.com/user-attachments/assets/d0dca0b6-9165-476c-b2ba-45cb30c8bfab" />
+
+<div align="center">
+
+  
 **Official implementation of "CCQA: Generating Question from Solution Can Improve Inference-Time Reasoning in SLMs"**
 
 [Paper](https://arxiv.org/abs/2509.18536) | [Code](https://github.com/scai-research/ccqa_official) | [Models](upload soon)
