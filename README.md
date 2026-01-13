@@ -12,7 +12,7 @@
   
 **Official implementation of "CCQA: Generating Question from Solution Can Improve Inference-Time Reasoning in SLMs" [EMNLP 2025 Main]**
 
-[Paper](https://arxiv.org/abs/2509.18536) | [Code](https://github.com/scai-research/ccqa_official) | [Models](upload soon)
+[Paper](https://arxiv.org/abs/2509.18536) | [Code](https://github.com/scai-research/ccqa_official) 
 
 </div>
 
