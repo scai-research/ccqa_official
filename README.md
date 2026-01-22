@@ -3,20 +3,18 @@
 [![EMNLP 2025](https://img.shields.io/badge/EMNLP-2025-blue)](https://2025.emnlp.org/)
 [![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/release/python-3100/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![arXiv](https://img.shields.io/badge/arXiv-2501.xxxxx-b31b1b.svg)](https://arxiv.org/abs/2509.18536)
+[![ACL Anthology](https://img.shields.io/badge/ACL%20Anthology-EMNLP%202025-blue)](https://aclanthology.org/2025.emnlp-main.704/)
 
-<img width="2152" height="1090" alt="image" src="https://github.com/user-attachments/assets/d0dca0b6-9165-476c-b2ba-45cb30c8bfab" />
+<img width="2152" height="1090" alt="image" src="https://github.com/user-attachments/assets/b510410f-36fb-47d3-9252-cbf60a670a7d"  />
 
 <div align="center">
 
   
-**Official implementation of "CCQA: Generating Question from Solution Can Improve Inference-Time Reasoning in SLMs" [EMNLP 2025 Main]**
-
-[Paper](https://arxiv.org/abs/2509.18536) | [Code](https://github.com/scai-research/ccqa_official) 
+**Official implementation of "CCQA: Generating Question from Solution Can Improve Inference-Time Reasoning in SLMs" 
+[EMNLP 2025 Main]**
 
 </div>
 
----
 
 ## Overview
 
@@ -44,3 +42,21 @@ CCQA is a novel inference-time reasoning method designed specifically for **Smal
 |------|-----------|
 | **Arithmetic** | GSM8K, SVAMP, MultiArith |
 | **Commonsense** | CommonSenseQA, StrategyQA, ARC-Challenge |
+
+### Citation
+If you find this work useful, please cite:
+
+```bibtex
+@inproceedings{kim-yoon-2025-ccqa,
+  title = "{CCQA}: Generating Question from Solution Can Improve Inference-Time Reasoning in {SLM}s",
+  author = "Kim, Jinyoung  and Yoon, Ji Won",
+  booktitle = "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+  month = nov,
+  year = "2025",
+  address = "Suzhou, China",
+  publisher = "Association for Computational Linguistics",
+  url = "https://aclanthology.org/2025.emnlp-main.704/",
+  doi = "10.18653/v1/2025.emnlp-main.704",
+  pages = "13944--13956"
+}
+
